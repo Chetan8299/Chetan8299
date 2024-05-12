@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently contributing to GSSPC'24<br>👯 I’m looking to collaborate on Web Development projects<br>🌱 I’m currently learning Full Stack Web Development
+🔭 I’m currently contributing to GSSOC'24<br>👯 I’m looking to collaborate on Web Development projects<br>🌱 I’m currently learning Full Stack Web Development
 
 
 ## 🌐 Socials:
@@ -10,8 +10,8 @@
 # 📊 GitHub Stats:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan8299&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan8299&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan8299&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: block; border-radius: 30px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan8299&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: block; overflow: hidden;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan8299&theme=dark&hide_border=false" alt="GitHub Streak" style="display: block;" />
   <img style="margin: 0 50px 20px 0; display: block;" align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc5ZGo0cHFyNWN6dXk1OWl1dGNrajAxZDQ1NGYwM3B6aWRkN3lmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif" />
 </div>
