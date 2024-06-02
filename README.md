@@ -1,6 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently contributing to GSSOC'24<br>👯 I’m looking to collaborate on Web Development projects<br>🌱 I’m currently learning Full Stack Web Development
+Check out my [Portfolio](https://chetansingh.vercel.app/) to see my projects and work!
 
+<div align="center">
+  <a href="https://chetansingh.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Chetan8299/Chetan8299/main/fav.png" alt="Portfolio" />
+  </a>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/singh3558) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singhchetan108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-singh-168564251) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Chetan-Singh-993) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chetan90411) 
