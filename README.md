@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently contributing to GSSOC'24<br>👯 I’m looking to collaborate on Web Development projects<br>🌱 I’m currently learning Full Stack Web Development
+🔭 I’m currently contributing to GSSOC'24<br>👯 I’m looking to collaborate on Web Development projects<br>🌱 I’m currently learning Full Stack Web Development<br>
 Check out my [Portfolio](https://chetansingh.vercel.app/) to see my projects and work!
 
 <div align="center">
